@@ -7,14 +7,14 @@
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Shahzaib%20Ahmed%20Hassan-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
   </a>
   <a href="mailto:m11217081@yuntech.edu.tw">
-    <img alt="Email" src="https://img.shields.io/badge/Email-m11217081%40yuntech.edu.tw-111827?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-m11217081%40yuntech.edu.tw-0F172A?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img alt="Citations" src="https://img.shields.io/badge/Citations-52-7C3AED?style=flat-square">
-  <img alt="h-index" src="https://img.shields.io/badge/h--index-3-06B6D4?style=flat-square">
-  <img alt="i10-index" src="https://img.shields.io/badge/i10--index-2-A78BFA?style=flat-square">
+  <img alt="Citations" src="https://img.shields.io/badge/Citations-52-2DD4BF?style=flat-square">
+  <img alt="h-index" src="https://img.shields.io/badge/h--index-3-60A5FA?style=flat-square">
+  <img alt="i10-index" src="https://img.shields.io/badge/i10--index-2-F59E0B?style=flat-square">
   <img alt="Affiliation" src="https://img.shields.io/badge/National%20Yunlin%20University%20of%20Science%20and%20Technology-Taiwan-334155?style=flat-square">
 </p>
 
@@ -33,32 +33,29 @@ I work on **machine-learning-driven computational modeling** for nonlinear, chao
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Core Systems</h3>
+      <h3>Systems</h3>
       <ul>
         <li>Fractional-order dynamics</li>
         <li>Chaotic attractors</li>
         <li>Neuronal firing models</li>
         <li>Bioelectrical systems</li>
-        <li>Biological prediction models</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>Methods</h3>
       <ul>
         <li>NARX neurostructures</li>
-        <li>Bayesian-regularized networks</li>
-        <li>Deep autoregressive models</li>
-        <li>Machine predictive networks</li>
+        <li>Bayesian regularization</li>
+        <li>Deep autoregression</li>
         <li>Scientific ML surrogates</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Research Direction</h3>
+      <h3>Outputs</h3>
       <ul>
-        <li>Long-memory modeling</li>
-        <li>Nonlinear prediction</li>
-        <li>Dynamic reconstruction</li>
-        <li>Computational intelligence</li>
+        <li>Prediction</li>
+        <li>Reconstruction</li>
+        <li>Excitability analysis</li>
         <li>Reproducible simulation</li>
       </ul>
     </td>
@@ -67,10 +64,10 @@ I work on **machine-learning-driven computational modeling** for nonlinear, chao
 
 ---
 
-## Visual Research Thread
+## Hindmarsh–Rose Visual Thread
 
 <p align="center">
-  <img src="assets/profile/research-animation.gif" alt="Animated fractional chaotic neurocomputing research thread" width="100%">
+  <img src="assets/profile/hindmarsh-rose.gif" alt="Animated Hindmarsh–Rose neuron dynamics" width="100%">
 </p>
 
 ---
@@ -107,9 +104,9 @@ Full publication record: **[Google Scholar](https://scholar.google.com/citations
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
   <br>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square">
-  <img alt="Scientific Computing" src="https://img.shields.io/badge/Scientific%20Computing-06B6D4?style=flat-square">
-  <img alt="Dynamical Systems" src="https://img.shields.io/badge/Dynamical%20Systems-A78BFA?style=flat-square">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-2DD4BF?style=flat-square">
+  <img alt="Scientific Computing" src="https://img.shields.io/badge/Scientific%20Computing-60A5FA?style=flat-square">
+  <img alt="Dynamical Systems" src="https://img.shields.io/badge/Dynamical%20Systems-F59E0B?style=flat-square">
   <img alt="Computational Neuroscience" src="https://img.shields.io/badge/Computational%20Neuroscience-334155?style=flat-square">
 </p>
 
