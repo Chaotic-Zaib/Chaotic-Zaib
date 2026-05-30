@@ -1,21 +1,17 @@
 <p align="center">
-  <img src="assets/profile/hero.svg" alt="Shahzaib Ahmed Hassan — Fractional Neurocomputing, Chaotic Systems, Scientific Machine Learning" width="100%">
+  <img src="assets/profile/hero.png" alt="Shahzaib Ahmed Hassan — Machine Learning, Fractional Dynamics, Computational Neuroscience" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Shahzaib%20Ahmed%20Hassan-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
-  </a>
-  <a href="mailto:m11217081@yuntech.edu.tw">
-    <img alt="Email" src="https://img.shields.io/badge/Email-m11217081%40yuntech.edu.tw-111827?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="mailto:m11217081@yuntech.edu.tw"><img alt="Email" src="https://img.shields.io/badge/Email-m11217081%40yuntech.edu.tw-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
   <img alt="Citations" src="https://img.shields.io/badge/Citations-52-7C3AED?style=flat-square">
   <img alt="h-index" src="https://img.shields.io/badge/h--index-3-06B6D4?style=flat-square">
   <img alt="i10-index" src="https://img.shields.io/badge/i10--index-2-A78BFA?style=flat-square">
-  <img alt="Affiliation" src="https://img.shields.io/badge/National%20Yunlin%20University%20of%20Science%20and%20Technology-Taiwan-334155?style=flat-square">
+  <img alt="Affiliation" src="https://img.shields.io/badge/YunTech-Taiwan-334155?style=flat-square">
 </p>
 
 <h1 align="center">Shahzaib Ahmed Hassan</h1>
@@ -28,7 +24,7 @@
 
 ## Research Identity
 
-I work on **machine-learning-driven computational modeling** for nonlinear, chaotic, fractional-order, and neuro-dynamical systems. My research focuses on building intelligent neural surrogates that can approximate, reconstruct, and analyze complex scientific dynamics where **memory, instability, and nonlinearity** are central to the system.
+I work on **machine-learning-driven computational modeling** for nonlinear, chaotic, fractional-order, and neuro-dynamical systems. My research focuses on intelligent neural surrogates that approximate, reconstruct, and analyze complex scientific dynamics where **memory, instability, and nonlinearity** are central to the system.
 
 <table>
   <tr>
@@ -94,7 +90,7 @@ Full publication record: **[Google Scholar](https://scholar.google.com/citations
 ## Research Map
 
 <p align="center">
-  <img src="assets/profile/research-map.svg" alt="Research map for fractional neurocomputing and chaotic systems" width="100%">
+  <img src="assets/profile/research-map.png" alt="Research map for fractional neurocomputing and chaotic systems" width="100%">
 </p>
 
 ---
