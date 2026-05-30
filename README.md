@@ -64,10 +64,10 @@ I work on **machine-learning-driven computational modeling** for nonlinear, chao
 
 ---
 
-## Hindmarsh–Rose Visual Thread
+## Neuronal Dynamics Visual Thread
 
 <p align="center">
-  <img src="assets/profile/hindmarsh-rose.gif" alt="Animated Hindmarsh–Rose neuron dynamics" width="100%">
+  <img src="assets/profile/neuronal-dynamics.gif" alt="Animated neuronal dynamics visual thread" width="100%">
 </p>
 
 ---
