@@ -1,0 +1,19 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="420" rx="34" fill="#020617"/>
+  <circle cx="1320" cy="80" r="210" fill="#7C3AED" opacity="0.33"/>
+  <circle cx="210" cy="360" r="260" fill="#06B6D4" opacity="0.18"/>
+  <path d="M92 300 C 270 120, 430 370, 610 180 S 950 90, 1110 240 S 1380 340, 1510 150" stroke="#C084FC" stroke-width="8" fill="none" opacity="0.95"/>
+  <path d="M92 322 C 270 142, 430 392, 610 202 S 950 112, 1110 262 S 1380 362, 1510 172" stroke="#22D3EE" stroke-width="4" fill="none" opacity="0.88"/>
+  <rect x="90" y="70" width="1420" height="255" rx="28" fill="#0F172A" opacity="0.86" stroke="#334155"/>
+  <text x="120" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="#F8FAFC">Shahzaib Ahmed Hassan</text>
+  <text x="120" y="205" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="600" fill="#A78BFA">Fractional Neurocomputing · Chaotic Systems · Scientific Machine Learning</text>
+  <text x="120" y="258" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" fill="#CBD5E1">Machine-learning surrogates for nonlinear, fractional-order, and neuro-dynamical systems</text>
+  <g transform="translate(120,286)">
+    <rect width="210" height="44" rx="22" fill="#7C3AED"/>
+    <text x="105" y="29" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="white">Machine Learning</text>
+    <rect x="230" width="280" height="44" rx="22" fill="#0891B2"/>
+    <text x="370" y="29" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="white">Computational Neuroscience</text>
+    <rect x="530" width="330" height="44" rx="22" fill="#8B5CF6"/>
+    <text x="695" y="29" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="white">Fractional Differential Equations</text>
+  </g>
+</svg>
