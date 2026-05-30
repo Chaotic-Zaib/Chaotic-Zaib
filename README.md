@@ -1,173 +1,124 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
-  <img alt="Shahzaib Ahmed Hassan — Fractional Neurocomputing and Chaotic Systems" src="assets/profile/hero-light.svg" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/profile/hero.svg" alt="Shahzaib Ahmed Hassan — Fractional Neurocomputing, Chaotic Systems, Scientific Machine Learning" width="100%">
+</p>
 
-<p align="center"><i>Building intelligent surrogates for fractional, chaotic, and neuro-dynamical systems.</i></p>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Shahzaib%20Ahmed%20Hassan-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="mailto:m11217081@yuntech.edu.tw">
+    <img alt="Email" src="https://img.shields.io/badge/Email-m11217081%40yuntech.edu.tw-111827?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Citations" src="https://img.shields.io/badge/Citations-52-7C3AED?style=flat-square">
+  <img alt="h-index" src="https://img.shields.io/badge/h--index-3-06B6D4?style=flat-square">
+  <img alt="i10-index" src="https://img.shields.io/badge/i10--index-2-A78BFA?style=flat-square">
+  <img alt="Affiliation" src="https://img.shields.io/badge/National%20Yunlin%20University%20of%20Science%20and%20Technology-Taiwan-334155?style=flat-square">
+</p>
 
 <h1 align="center">Shahzaib Ahmed Hassan</h1>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
-  </a>
-  <img alt="Citations" src="https://img.shields.io/badge/Citations-52-7C3AED?style=flat-square">
-  <img alt="h-index" src="https://img.shields.io/badge/h--index-3-22D3EE?style=flat-square">
-  <img alt="i10-index" src="https://img.shields.io/badge/i10--index-2-A78BFA?style=flat-square">
-  <a href="mailto:m11217081@yuntech.edu.tw">
-    <img alt="Email" src="https://img.shields.io/badge/Email-contact-111827?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+  <b>Machine Learning Researcher</b> · Fractional Differential Equations · Computational Neuroscience · Chaotic Dynamical Systems
 </p>
 
-```toml
-[profile]
-name        = "Shahzaib Ahmed Hassan"
-role        = "Machine Learning Researcher"
-affiliation = "National Yunlin University of Science and Technology"
-verified    = "yuntech.edu.tw"
-location    = "Taiwan"
+---
 
-[research]
-focus       = "Fractional neurocomputing, chaotic systems, and machine-learning surrogates"
-keywords    = [
-  "machine learning",
-  "computational neuroscience",
-  "fractional differential equations",
-  "chaotic dynamical systems",
-  "NARX neural networks",
-  "Bayesian regularized neural networks",
-  "scientific machine learning"
-]
+## Research Identity
 
-[status]
-open-to     = ["research collaborations", "academic writing", "scientific machine learning projects"]
-last-update = "2026-05"
-```
+I work on **machine-learning-driven computational modeling** for nonlinear, chaotic, fractional-order, and neuro-dynamical systems. My research focuses on building intelligent neural surrogates that can approximate, reconstruct, and analyze complex scientific dynamics where **memory, instability, and nonlinearity** are central to the system.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Core Systems</h3>
+      <ul>
+        <li>Fractional-order dynamics</li>
+        <li>Chaotic attractors</li>
+        <li>Neuronal firing models</li>
+        <li>Bioelectrical systems</li>
+        <li>Biological prediction models</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Methods</h3>
+      <ul>
+        <li>NARX neurostructures</li>
+        <li>Bayesian-regularized networks</li>
+        <li>Deep autoregressive models</li>
+        <li>Machine predictive networks</li>
+        <li>Scientific ML surrogates</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Research Direction</h3>
+      <ul>
+        <li>Long-memory modeling</li>
+        <li>Nonlinear prediction</li>
+        <li>Dynamic reconstruction</li>
+        <li>Computational intelligence</li>
+        <li>Reproducible simulation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Research Focus
+## Visual Research Thread
 
-I work on **machine-learning-driven computational modeling** for nonlinear, chaotic, fractional-order, and neuro-dynamical systems. My research connects **fractional differential equations**, **computational neuroscience**, **chaotic attractors**, and **deep/autoregressive neural architectures** to build predictive models for complex scientific systems.
-
-The central theme of my work is the design of intelligent computational frameworks that can approximate, reconstruct, and analyze complex dynamics where memory, nonlinearity, and instability are part of the system rather than noise.
-
-```python
-from dataclasses import dataclass
-
-@dataclass(frozen=True)
-class ResearchProfile:
-    name: str = "Shahzaib Ahmed Hassan"
-    affiliation: str = "National Yunlin University of Science and Technology"
-    fields: tuple[str, ...] = (
-        "machine learning",
-        "computational neuroscience",
-        "fractional differential equations",
-        "chaotic dynamical systems",
-        "scientific machine learning",
-    )
-    methods: tuple[str, ...] = (
-        "deep autoregressive exogenous neural networks",
-        "Bayesian-regularized neural networks",
-        "NARX neurostructures",
-        "machine predictive networks",
-        "neural-computational surrogates",
-    )
-```
-
----
-
-## Open Questions
-
-> [!IMPORTANT]
-> **Q1 · Fractional neural surrogates for complex dynamics.**  
-> How can neural networks approximate fractional-order systems while preserving long-memory behavior, nonlinear transitions, and physically meaningful dynamics?
-
-> [!IMPORTANT]
-> **Q2 · Machine learning for chaotic and neuronal systems.**  
-> How can data-driven neurocomputational models improve prediction and interpretation of chaotic attractors, neuronal excitability transitions, and nonlinear bioelectrical systems?
+<p align="center">
+  <img src="assets/profile/research-animation.gif" alt="Animated fractional chaotic neurocomputing research thread" width="100%">
+</p>
 
 ---
 
 ## Selected Publications
 
-Full publication record: [Google Scholar](https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en)
+Full publication record: **[Google Scholar](https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en)**
 
-1. **A hybrid neural-computational paradigm for complex firing patterns and excitability transitions in fractional Hindmarsh–Rose neuronal models.**  
-   *Chaos, Solitons & Fractals*, 2025.
-
-2. **Design of intelligent Bayesian regularized deep cascaded NARX neurostructure for predictive analysis of FitzHugh–Nagumo bioelectrical model in neuronal cell membrane.**  
-   *Biomedical Signal Processing and Control*, 2025.
-
-3. **Nonlinear chaotic Lorenz–Lü–Chen fractional order dynamics: A novel machine learning expedition with deep autoregressive exogenous neural networks.**  
-   *Chaos, Solitons & Fractals*, 2024.
-
-4. **Design of stochastic backpropagative autoregressive exogenous neuroarchitectures for predictive analysis of fractional-order nonlinear Rabinovich–Fabrikant chaotic attractors.**  
-   *Nonlinear Dynamics*, 2025.
-
-5. **Novel design of fractional cholesterol dynamics and drug concentrations model with analysis on machine predictive networks.**  
-   *Computers in Biology and Medicine*, 2025.
-
-6. **A hybrid intelligent computational framework for diverse firing patterns in a fractional-order locally active memristive neuron model.**  
-   *Chaos, Solitons & Fractals*, 2026.
-
-7. **Deep multi-layered autoregressive neuro-structures for predictive modelling of nonlinear chaotic Lorenz–Lü–Chen systems in Rayleigh–Bénard convection.**  
-   *International Journal of Computer Mathematics*, 2026.
-
-```bibtex
-@article{hassan2025fractional_neurocomputing,
-  title   = {A hybrid neural-computational paradigm for complex firing patterns and excitability transitions in fractional Hindmarsh--Rose neuronal models},
-  author  = {Hassan, Shahzaib Ahmed and Raja, Muhammad Junaid Ali Asif and others},
-  journal = {Chaos, Solitons \& Fractals},
-  year    = {2025}
-}
-```
+| Year | Publication | Venue |
+|---:|---|---|
+| 2025 | **A hybrid neural-computational paradigm for complex firing patterns and excitability transitions in fractional Hindmarsh–Rose neuronal models** | *Chaos, Solitons & Fractals* |
+| 2025 | **Design of intelligent Bayesian regularized deep cascaded NARX neurostructure for predictive analysis of FitzHugh–Nagumo bioelectrical model in neuronal cell membrane** | *Biomedical Signal Processing and Control* |
+| 2024 | **Nonlinear chaotic Lorenz–Lü–Chen fractional order dynamics: A novel machine learning expedition with deep autoregressive exogenous neural networks** | *Chaos, Solitons & Fractals* |
+| 2025 | **Design of stochastic backpropagative autoregressive exogenous neuroarchitectures for predictive analysis of fractional-order nonlinear Rabinovich–Fabrikant chaotic attractors** | *Nonlinear Dynamics* |
+| 2025 | **Novel design of fractional cholesterol dynamics and drug concentrations model with analysis on machine predictive networks** | *Computers in Biology and Medicine* |
+| 2026 | **A hybrid intelligent computational framework for diverse firing patterns in a fractional-order locally active memristive neuron model** | *Chaos, Solitons & Fractals* |
+| 2026 | **Deep multi-layered autoregressive neuro-structures for predictive modelling of nonlinear chaotic Lorenz–Lü–Chen systems in Rayleigh–Bénard convection** | *International Journal of Computer Mathematics* |
 
 ---
 
-## Research Areas
+## Research Map
 
-- Fractional-order dynamical systems  
-- Computational neuroscience  
-- Chaotic attractors and nonlinear dynamics  
-- Scientific machine learning  
-- NARX and autoregressive neural networks  
-- Bayesian-regularized neural modeling  
-- Predictive modeling of biological and physical systems  
-
----
-
-## Academic Profile
-
-**Affiliation:** National Yunlin University of Science and Technology  
-**Verified email:** yuntech.edu.tw  
-**Google Scholar:** [Shahzaib Ahmed Hassan](https://scholar.google.com/citations?user=1xD1zTQAAAAJ&hl=en)
+<p align="center">
+  <img src="assets/profile/research-map.svg" alt="Research map for fractional neurocomputing and chaotic systems" width="100%">
+</p>
 
 ---
 
 ## Technical Stack
 
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
   <br>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <br>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square">
+  <img alt="Scientific Computing" src="https://img.shields.io/badge/Scientific%20Computing-06B6D4?style=flat-square">
+  <img alt="Dynamical Systems" src="https://img.shields.io/badge/Dynamical%20Systems-A78BFA?style=flat-square">
+  <img alt="Computational Neuroscience" src="https://img.shields.io/badge/Computational%20Neuroscience-334155?style=flat-square">
 </p>
 
 ---
 
-<p align="center">
-  <img alt="Fractional chaotic neurocomputing research map" src="assets/profile/signature.svg" width="100%">
-</p>
+## Collaboration
+
+I am open to research collaborations involving **fractional-order systems**, **chaotic dynamics**, **computational neuroscience**, and **scientific machine learning**.
 
 <p align="center">
-  <sub>Open to academic collaborations in fractional neurocomputing, chaotic systems, and scientific machine learning.</sub>
+  <sub>National Yunlin University of Science and Technology · Verified email: yuntech.edu.tw</sub>
 </p>
