@@ -1,0 +1,20 @@
+<svg width="1600" height="360" viewBox="0 0 1600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="360" rx="28" fill="#0B1020"/>
+  <rect x="70" y="55" width="1460" height="250" rx="24" fill="#111827" stroke="#334155"/>
+  <text x="100" y="105" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" fill="#F8FAFC">Research Map</text>
+  <text x="100" y="147" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" fill="#CBD5E1">Fractional systems → neural surrogates → chaotic/neuro-dynamical prediction</text>
+  <g transform="translate(115,195)">
+    <circle cx="0" cy="0" r="16" fill="#22D3EE"/>
+    <text x="35" y="7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#F8FAFC">Fractional differential equations</text>
+    <path d="M350 0 H500" stroke="#A78BFA" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="500,-9 520,0 500,9" fill="#A78BFA"/>
+    <circle cx="555" cy="0" r="16" fill="#A78BFA"/>
+    <text x="590" y="7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#F8FAFC">NARX / BRNN / deep autoregression</text>
+    <path d="M995 0 H1145" stroke="#22D3EE" stroke-width="5" stroke-linecap="round"/>
+    <polygon points="1145,-9 1165,0 1145,9" fill="#22D3EE"/>
+    <circle cx="1200" cy="0" r="16" fill="#7C3AED"/>
+    <text x="1235" y="7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#F8FAFC">Prediction + interpretation</text>
+  </g>
+  <path d="M100 255 C240 215, 330 295, 470 255 S710 215, 850 255 S1090 295, 1230 255 S1435 220, 1510 260" stroke="#22D3EE" stroke-width="4" fill="none"/>
+  <path d="M100 270 C240 230, 330 310, 470 270 S710 230, 850 270 S1090 310, 1230 270 S1435 235, 1510 275" stroke="#A78BFA" stroke-width="4" fill="none"/>
+</svg>
