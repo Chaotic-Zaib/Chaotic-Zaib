@@ -15,10 +15,8 @@
   <img alt="Citations" src="https://img.shields.io/badge/Citations-52-2DD4BF?style=flat-square">
   <img alt="h-index" src="https://img.shields.io/badge/h--index-3-60A5FA?style=flat-square">
   <img alt="i10-index" src="https://img.shields.io/badge/i10--index-2-F59E0B?style=flat-square">
-  <img alt="Affiliation" src="https://img.shields.io/badge/National%20Yunlin%20University%20of%20Science%20and%20Technology-Taiwan-334155?style=flat-square">
+  <img alt="Affiliation" src="https://img.shields.io/badge/YunTech-Taiwan-334155?style=flat-square">
 </p>
-
-<h1 align="center">Shahzaib Ahmed Hassan</h1>
 
 <p align="center">
   <b>Machine Learning Researcher</b> · Fractional Differential Equations · Computational Neuroscience · Chaotic Dynamical Systems
@@ -67,7 +65,7 @@ I work on **machine-learning-driven computational modeling** for nonlinear, chao
 ## Neuronal Dynamics Visual Thread
 
 <p align="center">
-  <img src="assets/profile/neuronal-dynamics.gif" alt="Animated neuronal dynamics visual thread" width="100%">
+  <img src="assets/profile/neural-dynamics.gif" alt="Animated neuronal dynamics visual thread" width="100%">
 </p>
 
 ---
